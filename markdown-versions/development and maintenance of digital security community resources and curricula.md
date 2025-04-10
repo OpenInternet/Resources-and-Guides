@@ -73,23 +73,23 @@ This report examines the complexities of developing sustainable digital security
 
 Based on an analysis of the research findings and Internews' experience in digital security capacity building, the following recommendations would generate long-term and lasting impacts on the development and sustainability of digital security resources:
 
-1.  [Foster Collaborative Funding Models]: Encourage the adoption of diversified funding strategies, moving away from single-source funding to a more democratized model. This approach can help mitigate the risks associated with reliance on a single funder and promote long-term sustainability.
+1.  **Foster Collaborative Funding Models**: Encourage the adoption of diversified funding strategies, moving away from single-source funding to a more democratized model. This approach can help mitigate the risks associated with reliance on a single funder and promote long-term sustainability.
 
-2.  [Strengthen Community Engagement and Ownership]: Actively involve user communities in the development and updating of resources. This could be achieved by establishing clear and organized feedback processes and encouraging community contributions, thereby fostering a sense of ownership and commitment to the resources.
+2.  **Strengthen Community Engagement and Ownership**: Actively involve user communities in the development and updating of resources. This could be achieved by establishing clear and organized feedback processes and encouraging community contributions, thereby fostering a sense of ownership and commitment to the resources.
 
-3.  [Prioritize Mental Health and Well-being]: Acknowledge and address the mental health challenges faced by individuals involved in digital security projects. Provide support mechanisms that recognize the emotional labor involved and highlight the well-being of those dedicating their time and efforts to these initiatives.
+3.  **Prioritize Mental Health and Well-being**: Acknowledge and address the mental health challenges faced by individuals involved in digital security projects. Provide support mechanisms that recognize the emotional labor involved and highlight the well-being of those dedicating their time and efforts to these initiatives.
 
-4.  [Adopt a Strategic Long-term Approach]: Develop a strategic framework from the outset of projects, focusing on long-term sustainability. This includes planning for regular updates, maintenance, and the potential expansion of project scopes over time.
+4.  **Adopt a Strategic Long-term Approach**: Develop a strategic framework from the outset of projects, focusing on long-term sustainability. This includes planning for regular updates, maintenance, and the potential expansion of project scopes over time.
 
-5.  [Centralize and Curate Resources]: Establish a centralized library or repository of digital security resources that is managed by a dedicated team. This could streamline access to resources, reduce duplication of efforts, and ensure the relevance and timeliness of the materials.
+5.  **Centralize and Curate Resources**: Establish a centralized library or repository of digital security resources that is managed by a dedicated team. This could streamline access to resources, reduce duplication of efforts, and ensure the relevance and timeliness of the materials.
 
-6.  [Enhance Impact Measurement]: Develop more comprehensive and nuanced methods for assessing the impact of digital security resources. This should go beyond traditional metrics and consider behavioral changes, community engagement levels, and other qualitative indicators. Maintainers of different resources should exchange best practices for impact measurement.
+6.  **Enhance Impact Measurement**: Develop more comprehensive and nuanced methods for assessing the impact of digital security resources. This should go beyond traditional metrics and consider behavioral changes, community engagement levels, and other qualitative indicators. Maintainers of different resources should exchange best practices for impact measurement.
 
-7.  [Build Resilient Community Networks]: Invest in live gatherings and other forms of direct engagement to strengthen community ties. These interactions can be pivotal in building trust, generating new ideas, and sustaining enthusiasm and commitment among community members.
+7.  **Build Resilient Community Networks**: Invest in live gatherings and other forms of direct engagement to strengthen community ties. These interactions can be pivotal in building trust, generating new ideas, and sustaining enthusiasm and commitment among community members.
 
 ### Recommendation for Funders in particular: 
 
-[Present Funding Opportunities to Tend to Existing Resources]: Funding entities interested in the long-term sustainability of quality community resources should consider offering funding opportunities which allow for the ongoing maintenance, curation, and improvement of existing resources, which are more likely to come with existing community support and buy-in.
+**Present Funding Opportunities to Tend to Existing Resources**: Funding entities interested in the long-term sustainability of quality community resources should consider offering funding opportunities which allow for the ongoing maintenance, curation, and improvement of existing resources, which are more likely to come with existing community support and buy-in.
 
 The advancement of digital security resources for at-risk groups requires a concerted and multifaceted approach that balances the need for strategic planning with the flexibility to adapt to changing circumstances and community needs. By funding and implementing these recommendations, we can work towards creating more effective, sustainable, and community-driven digital security resources.
 
